@@ -681,20 +681,7 @@ MonoBehaviour:
     SONORES -</SIZE>\r\n\r<SIZE=80>  <I> opengameart.fr </I></SIZE>\r\n\r<SIZE=80>
     <I> mixkit.co </I> </SIZE>\r\n\r\n\n<SIZE=120>- MUSIQUES ORIGINALES -</SIZE>\r\n\r<SIZE=80> 
     <I>Gary F. <3 </I></SIZE>\r\n\n\r\n\r\n\n\n<SIZE=60><I>Merci   d'avoir   jou\xE9  
-    !  </I></SIZE>\n\n\n\n\n\n\n\nJoyeux anniversaire Monsieur !\n\n\nJ'esp\xE8re
-    que ce petit jeu vous a plu ! \n\n\nEvidemment, il y a plein de choses faites
-    tr\xE8s rapidement et donc plein de probl\xE8mes, sans compter les graphismes
-    approximatifs, soyez indulgent :-)\n\n\nMais cela m'a permis d'apprendre un tas
-    de choses que je pourrai r\xE9utiliser plus tard, et je suis plut\xF4t fi\xE8re
-    de moi.\nJ'ai commenc\xE9 il y a un mois, et j'\xE9cris ces lignes tr\xE8s exactement
-    le 9 d\xE9cembre 2021 \xE0 11h30, un peu dans le rush je l'avoue. \n\n\nJe voulais
-    faire quelque chose d'un peu sp\xE9cial, un peu comme l'animation Blender de
-    l'an dernier, mais en montrant un peu mes nouvelles comp\xE9tences.\n\n\nA quelques
-    jours de parler de mon exp\xE9rience \xE9tudiante \xE0 beaucoup trop de personnes,
-    je n'oublie pas que si j'en suis l\xE0 aujourd'hui, \xE0 la veille de recevoir
-    mon dipl\xF4me d'ing\xE9nieur et pleine de motivation pour l'avenir,  c'est surtout
-    gr\xE2ce \xE0 vous et \xE0 votre soutien infaillible !\n\n\nJe suis vraiment
-    heureuse de vous conna\xEEtre :o)\n\n\nMerci <3\n"
+    !  </I></SIZE>\n\n\n\n\n\n\n\n"
 --- !u!222 &1791451534
 CanvasRenderer:
   m_ObjectHideFlags: 0
